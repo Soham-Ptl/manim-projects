@@ -11,6 +11,7 @@ The goal of this repository is to explore mathematical concepts through animatio
 | Project                                       | Description                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Pythagorean Theorem](./pythagorean-theorem/) | A visual proof of the Pythagorean theorem using geometric transformations and animations. |
+| [Pythagorean Theorem](./pythagorean-theorem/) | A visual proof of the Pythagorean theorem using geometric transformations and animations. |
 
 More projects will be added as I continue learning and experimenting with Manim.
 
