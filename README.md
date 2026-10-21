@@ -11,6 +11,7 @@ The goal of this repository is to explore mathematical concepts through animatio
 | Project                                       | Description                                                                               |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Pythagorean Theorem](./pythagorean-theorem/) | A visual proof of the Pythagorean theorem using geometric transformations and animations. |
+| [Infinite Series](./infinite-series/)         | A visualization of the infinite geometric series \(1/2 + 1/4 + 1/8 + \cdots = 1\).        | 
 
 More projects will be added as I continue learning and experimenting with Manim.
 
