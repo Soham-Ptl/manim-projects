@@ -8,23 +8,23 @@ The animation explores how an infinite number of progressively smaller terms can
 
 The infinite series is:
 
-\[
-\frac12+\frac14+\frac18+\frac1{16}+\cdots=1
-\]
+```text
+1/2 + 1/4 + 1/8 + 1/16 + ... = 1
+```
 
 Each term is half the size of the previous term. As more terms are added, the partial sum gets closer and closer to 1.
 
-For a geometric series with first term \(a\) and common ratio \(r\), where \(|r|<1\), the infinite sum is:
+For a geometric series with first term `a` and common ratio `r`, where `|r| < 1`, the infinite sum is:
 
-\[
-S_\infty=\frac{a}{1-r}
-\]
+```text
+S_inf = a / (1 - r)
+```
 
-For this series, \(a=\frac12\) and \(r=\frac12\), giving:
+For this series, `a = 1/2` and `r = 1/2`, giving:
 
-\[
-S_\infty=\frac{\frac12}{1-\frac12}=1
-\]
+```text
+S_inf = (1/2) / (1 - 1/2) = 1
+```
 
 ## Animation
 
